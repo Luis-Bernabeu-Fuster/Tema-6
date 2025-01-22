@@ -23,7 +23,8 @@ public class Habitacion {
         return lampara;
     }
     public void hacerLaCama(){
-        cama.hacer();
+        System.out.println("Se esta haciendo la cama");
+        this.cama.hacer();
     }
 
     @Override
