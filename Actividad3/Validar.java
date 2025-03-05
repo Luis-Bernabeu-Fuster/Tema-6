@@ -17,7 +17,7 @@ public class Validar {
                 System.out.println("     v                                  v");
                 System.out.println("==============                   =============                    =============");
                 System.out.println("|            |                  |             |                  |             |");
-                System.out.println("|     🏖      |<--------------->|      ⛰😎    |<---------------->|     🏢      |");
+                System.out.println("|     🏖      |<----------------|      ⛰😎    |<---------------->|     🏢      |");
                 System.out.println("|            |                  |             |                  |             |");
                 System.out.println("==============                   =============                    =============");
                 System.out.println("       ^                               ^");
@@ -45,7 +45,7 @@ public class Validar {
                 System.out.println("     v                                  v");
                 System.out.println("==============                   =============                    =============");
                 System.out.println("|            |                  |             |                  |             |");
-                System.out.println("|     🏖😎   |<---------------->|      ⛰      |<---------------->|     🏢      |");
+                System.out.println("|     🏖😎   |<-----------------|      ⛰      |<---------------->|     🏢      |");
                 System.out.println("|            |                  |             |                  |             |");
                 System.out.println("==============                   =============                    =============");
                 System.out.println("       ^                               ^");
@@ -73,7 +73,7 @@ public class Validar {
                 System.out.println("     v                                  v");
                 System.out.println("==============                   =============                    =============");
                 System.out.println("|            |                  |             |                  |             |");
-                System.out.println("|     🏖      |<--------------->|      ⛰      |<---------------->|     🏢😎    |");
+                System.out.println("|     🏖      |<----------------|      ⛰      |<---------------->|     🏢😎    |");
                 System.out.println("|            |                  |             |                  |             |");
                 System.out.println("==============                   =============                    =============");
                 System.out.println("       ^                               ^");
@@ -101,7 +101,7 @@ public class Validar {
                 System.out.println("     v                                  v");
                 System.out.println("==============                   =============                    =============");
                 System.out.println("|            |                  |             |                  |             |");
-                System.out.println("|     🏖      |<--------------->|      ⛰      |<---------------->|     🏢      |");
+                System.out.println("|     🏖      |<----------------|      ⛰      |<---------------->|     🏢      |");
                 System.out.println("|            |                  |             |                  |             |");
                 System.out.println("==============                   =============                    =============");
                 System.out.println("       ^                               ^");
@@ -129,7 +129,7 @@ public class Validar {
                 System.out.println("     v                                  v");
                 System.out.println("==============                   =============                    =============");
                 System.out.println("|            |                  |             |                  |             |");
-                System.out.println("|     🏖      |<--------------->|      ⛰      |<---------------->|     🏢      |");
+                System.out.println("|     🏖      |<----------------|      ⛰      |<---------------->|     🏢      |");
                 System.out.println("|            |                  |             |                  |             |");
                 System.out.println("==============                   =============                    =============");
                 System.out.println("       ^                               ^");
